@@ -1,0 +1,31 @@
+{
+  "name": "simple-reddit-data",
+  "version": "1.0.0",
+  "description": "An easy way to get data from your favorite subreddit",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheTommyTwitch/simple-reddit-data.git"
+  },
+  "keywords": [
+    "reddit",
+    "json",
+    "sub",
+    "subreddit"
+  ],
+  "author": "Thomas Asadurian <Tasadurian@gmail.com> (http://thetommytwitch.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheTommyTwitch/simple-reddit-data/issues"
+  },
+  "homepage": "https://github.com/TheTommyTwitch/simple-reddit-data#readme",
+  "dependencies": {
+    "request-promise": "^2.0.1"
+  }
+}
